@@ -1,4 +1,3 @@
-# ParaschivaGuney
 ### Hi there 👋, I'm Keti
 #### Data Analyst
 ![Data Analyst](Cipher.ai/about-us/careers/)
